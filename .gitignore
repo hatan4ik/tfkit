@@ -1,0 +1,7 @@
+# Compiled binaries and coverage profiles
+/bin/
+/tfkit
+*.out
+coverage.txt
+/dist/
+
